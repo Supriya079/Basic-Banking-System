@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="no_history">No history</string>
+    <string name="name">Name :</string>
+    <string name="account_number">Account Number :</string>
+    <string name="email_id">Email Id :</string>
+    <string name="mobile_number">Mobile Number :</string>
+    <string name="ifsc_code">IFSC Code</string>
+    <string name="current_balance">Current balance :</string>
+    <string name="rs">Rs.</string>
+    <string name="symbol_rs">/-</string>
+    <string name="transfer_money">Transfer money</string>
+    <string name="welcome_to_my_bank">Welcome To My Bank!</string>
+    <string name="info_app">You can use this app to transfer money between accounts.</string>
+    <string name="view_customers">View Customers</string>
+    <string name="select_a_user_to_transfer_money">Select a user to transfer money</string>
+    <string name="name1">name1</string>
+    <string name="name2">name2</string>
+    <string name="date">date</string>
+    <string name="amount">amount</string>
+    <string name="sys_rs">/-</string>
+    <string name="transaction_status">Transaction status</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="account_num">Account Number:</string>
+    <string name="balance">Balance:</string>
+</resources>
