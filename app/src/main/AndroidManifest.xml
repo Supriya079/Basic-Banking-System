@@ -9,18 +9,20 @@
         android:roundIcon="@mipmap/bank_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BankingSystem">
-        <activity android:name=".activity.MainActivity">
+        <activity android:name=".SplashScreenActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.CustomerList"></activity>
-        <activity android:name=".activity.SendToUser"></activity>
-        <activity android:name=".activity.CustomerHistoryList"></activity>
-        <activity android:name=".activity.CustomerData"></activity>
+        <activity android:name=".activity.MainActivity">
 
+        </activity>
+        <activity android:name=".activity.CustomerList" />
+        <activity android:name=".activity.SendToUser" />
+        <activity android:name=".activity.CustomerHistoryList" />
+        <activity android:name=".activity.CustomerData" />
     </application>
 
 </manifest>
